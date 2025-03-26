@@ -1,0 +1,99 @@
+[
+    {
+      "loanNumber": "L28U3247",
+      "loanType": "Home Loan",
+      "borrower": "Vedika Sachar",
+      "borrowerAddress": "123 Green Street, Mumbai",
+      "coBorrower": "Divit Vora",
+      "coBorrowerAddress": "456 Blue Lane, Pune",
+      "dpd": 91,
+      "sanction": 1934068,
+      "region": "West",
+      "status": "Active"
+    },
+    {
+      "loanNumber": "L28U3243",
+      "loanType": "Car Loan",
+      "borrower": "Hrishita Agrawal",
+      "borrowerAddress": "789 Park Avenue, Delhi",
+      "coBorrower": "Mahika Tak",
+      "coBorrowerAddress": "321 Hill Road, Chandigarh",
+      "dpd": 100,
+      "sanction": 1842143,
+      "region": "North",
+      "status": "Closed"
+    },
+    {
+      "loanNumber": "L28U3250",
+      "loanType": "Car Loan",
+      "borrower": "Priyansh Soman",
+      "borrowerAddress": "654 Sunset Blvd, Kolkata",
+      "coBorrower": "Zaina Dara",
+      "coBorrowerAddress": "987 Ocean Drive, Goa",
+      "dpd": 100,
+      "sanction": 4537889,
+      "region": "East",
+      "status": "Active"
+    },
+    {
+      "loanNumber": "L28U3251",
+      "loanType": "Education Loan",
+      "borrower": "Rohan Kapoor",
+      "borrowerAddress": "12 Rose Street, Jaipur",
+      "coBorrower": "Simran Malhotra",
+      "coBorrowerAddress": "34 Lotus Lane, Ahmedabad",
+      "dpd": 45,
+      "sanction": 800000,
+      "region": "West",
+      "status": "Active"
+    },
+    {
+      "loanNumber": "L28U3252",
+      "loanType": "Personal Loan",
+      "borrower": "Aarav Mehta",
+      "borrowerAddress": "56 Maple Road, Bengaluru",
+      "coBorrower": "Meera Shah",
+      "coBorrowerAddress": "78 Oak Street, Hyderabad",
+      "dpd": 30,
+      "sanction": 1200000,
+      "region": "South",
+      "status": "Pending"
+    },
+    {
+      "loanNumber": "L28U3253",
+      "loanType": "Home Loan",
+      "borrower": "Neha Verma",
+      "borrowerAddress": "112 Palm Street, Chennai",
+      "coBorrower": "Vikram Jain",
+      "coBorrowerAddress": "90 Elm Road, Coimbatore",
+      "dpd": 60,
+      "sanction": 2500000,
+      "region": "South",
+      "status": "Active"
+    },
+    {
+      "loanNumber": "L28U3254",
+      "loanType": "Car Loan",
+      "borrower": "Kunal Batra",
+      "borrowerAddress": "34 Hilltop Road, Pune",
+      "coBorrower": "Rhea Sen",
+      "coBorrowerAddress": "56 Lakeview Drive, Nashik",
+      "dpd": 75,
+      "sanction": 1700000,
+      "region": "West",
+      "status": "Closed"
+    },
+    {
+      "loanNumber": "L28U3255",
+      "loanType": "Business Loan",
+      "borrower": "Aditya Narayan",
+      "borrowerAddress": "89 Corporate Avenue, Delhi",
+      "coBorrower": "Anjali Menon",
+      "coBorrowerAddress": "102 Park Street, Noida",
+      "dpd": 20,
+      "sanction": 5000000,
+      "region": "North",
+      "status": "Active"
+    }
+  ]
+  
